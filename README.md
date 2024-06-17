@@ -1,0 +1,11 @@
+# Curso de programación full stack
+
+## MÓDULO 2 - Repositorio y WorkFlow
+
+### Silicon Misiones - [https://siliconmisiones.gob.ar/](https://siliconmisiones.gob.ar/)
+
+## Autor
+**Gabriel Rojas**
+
+## Descripción
+Este repositorio fue creado con fines académicos. Contiene los ejercicios resueltos del Módulo 1 del curso de Programación Web Full-Stack Nivel 2.
