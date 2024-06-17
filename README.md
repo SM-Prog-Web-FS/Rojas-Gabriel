@@ -8,4 +8,4 @@
 **Gabriel Rojas**
 
 ## Descripción
-Este repositorio fue creado con fines académicos. Contiene los ejercicios resueltos del Módulo 1 del curso de Programación Web Full-Stack Nivel 2.
+Este repositorio fue creado con fines académicos. Contiene los ejercicios resueltos del Módulo 1.
